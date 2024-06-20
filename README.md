@@ -1,1 +1,2 @@
-Projects from classMachine Learning in summer semestar 2024 on Tehncical University of Vienna
+# Machine Learning
+Projects from class Machine Learning in summer semestar 2024 on Tehncical University of Vienna
